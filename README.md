@@ -2,14 +2,14 @@
 
 This project provisions a **minimal and secure AWS infrastructure** using Terraform.
 
-### 🔧 Infrastructure Components
+### Infrastructure Components
 - VPC
 - Public Subnet
 - Internet Gateway + Route Table
 - Security Group (SSH on port 22 only)
 - EC2 Ubuntu Instance (via existing `master.pem` key)
 
-### 🚀 How to Use
+### How to Use
 
 ```bash
 terraform init                         # Download provider plugins

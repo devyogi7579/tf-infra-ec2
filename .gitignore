@@ -6,3 +6,5 @@
 *.tfvars
 *.pem
 *.plan
+*.terraform.lock.hcl
+.terraform.lock.hcl
